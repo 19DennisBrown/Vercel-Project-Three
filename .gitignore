@@ -1,4 +1,5 @@
 env/
+staticfiles_build/
 
 # Django #
 *.log
